@@ -15,3 +15,4 @@ print( "The temperature today is: {:.3f} degrees Celsius.".format( temperature )
 
 userAge = int(input("Please enter your age: "))
 print("Now showing the shop items filtered by age: {}.".format(userAge))
+print(my_List[1])
