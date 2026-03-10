@@ -1,0 +1,5 @@
+2026-02-17 13:12:39,ping,google.com,4.884,Success
+2026-02-17 13:12:55,nslookup,github.com,140.82.113.3,Success
+2026-02-17 13:13:09,ifconfig,en0,56:d3:93:e8:e0:c3 / 10.4.65.7,Captured
+2026-02-17 13:13:21,arp,local,7 devices,Captured
+2026-02-17 13:15:22,nslookup,https://www.instagram.com/photogrphing_?igsh=MTJzOTgwaW9kMnFvMg%3D%3D,Not found,Failed
